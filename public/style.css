@@ -1,0 +1,14 @@
+body{
+	background-image: url('alisha-hieb-249784.jpg');
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+#title{
+ padding: 50px;
+ margin: 30px auto;
+}
+
+#scrape{
+	float: right;
+}
